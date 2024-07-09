@@ -1,0 +1,3 @@
+endpoint = "https://pikapika.openai.azure.com"
+key = "4b114de771c84bb58d8876e501f84ad1"
+deployment = "myturbo"
